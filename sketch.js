@@ -52,3 +52,4 @@ function gotResult(results) {
 // I did the code just as you did in class but it only displays the last object class and doesn't change. the model on teachablemachine
 // worked perfectly. I've tried troubleshooting for an hour but made no progress. I hope this is acceptable. If you explained
 // the issue in class after you said we could leave the meeting, then sorry that I missed it.
+// This is the initial code before my troubleshooting, as nothing I did worked, so I figured you'd at least want to see the original code.
